@@ -1,6 +1,6 @@
 cask "scratchmanager" do
-  version "1.5.7,58"
-  sha256 "7e70fb2334425e23e04cd9fba1ccf961041a84bb54e101709f33bb32551827e3"
+  version "1.5.8,60"
+  sha256 "0383cdb5ab3a6e5006c83160ea819cae21ada9025dc5c5f570071b8bda8183b6"
 
   url "https://scratchmanager.com/updates/ScratchManager-#{version.csv.first}-#{version.csv.second}.dmg"
   name "ScratchManager"
